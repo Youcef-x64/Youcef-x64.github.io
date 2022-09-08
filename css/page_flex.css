@@ -36,6 +36,7 @@ body {
 
 .main {
     display: flex;
+    flex-wrap: wrap;
     height: 300px;
 }
 
@@ -52,7 +53,7 @@ body {
 }
 
 .flex-grow-s-2 {
-    flex: 33%;
+    flex: 31%;
 }
 
 .flex-grow-s-3 {
@@ -77,7 +78,7 @@ body {
     }
     
     .flex-grow-l-2 {
-        flex: 33%;
+        flex: 31%;
     }
     
     .flex-grow-l-3 {
